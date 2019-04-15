@@ -1,14 +1,5 @@
-- title: Home
-  url: https://Redping.github.io/
-
-- title: Blog
-  url: /blog/
+    
+# Site navigation links
 
 - title: Projects
   url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
