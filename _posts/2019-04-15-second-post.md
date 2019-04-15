@@ -2,7 +2,7 @@
 
 layout: First_post
 
-title: "첫 포스트"
+title: "두번째 포스트"
 
 
 ---
@@ -11,3 +11,5 @@ title: "첫 포스트"
 ###ifconfig 
 ###윈도우 vnet ip 와 
 ###가상 ip 포트포워딩 해줌
+강의추천 사이트
+https://liveoverflow.com/binary_hacking/protostar/index.html
