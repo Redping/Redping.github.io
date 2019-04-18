@@ -1,6 +1,6 @@
 ---
 
-layout: Java Study
+layout: java Study
 title: "테스트 포스트"
 
 ---
