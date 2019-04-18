@@ -1,6 +1,6 @@
 ---
 
-layout: java study
+layout: Java study
 
 title: "첫번째 포스트"
 
