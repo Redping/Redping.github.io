@@ -1,7 +1,7 @@
 ---
 
-layout: java Study
-title: "테스트 포스트"
+layout: post
+title: "첫 포스트-2"
 
 ---
 
