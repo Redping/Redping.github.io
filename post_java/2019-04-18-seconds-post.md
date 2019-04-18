@@ -1,6 +1,6 @@
 ---
 
-layout: Java study
+layout: post
 
 title: "두번쨰 포스트"
 

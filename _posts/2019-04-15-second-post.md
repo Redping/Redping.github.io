@@ -1,6 +1,6 @@
 ﻿---
 
-layout: First_post
+layout: post
 title: "두번째 포스트"
 
 ---
