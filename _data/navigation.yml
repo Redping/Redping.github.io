@@ -1,4 +1,4 @@
-    
+
 # Site navigation links
 
 - title: Projects
@@ -6,3 +6,6 @@
 
 - title: Java study
   url: /post_java/
+
+- title: Thinking
+  url: /thinking/
