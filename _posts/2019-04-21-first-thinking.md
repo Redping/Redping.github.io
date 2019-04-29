@@ -1,6 +1,6 @@
----
+﻿---
 layout:post
-title:"Jekyll theme"
+title: "Jekyll theme"
 thinking: true
 
 ---
