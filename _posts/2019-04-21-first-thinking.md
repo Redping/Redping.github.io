@@ -1,8 +1,7 @@
 ﻿---
-layout:post
+layout: post
 title: "Jekyll theme"
 thinking: true
-
 ---
 # !
 ### jekyll theme 레이아웃 추가 하는법 을
