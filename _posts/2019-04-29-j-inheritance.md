@@ -1,5 +1,4 @@
 ﻿---
-
 layout: post
 title: "상속"
 javastudy: true
