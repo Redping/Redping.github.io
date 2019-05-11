@@ -1,9 +1,5 @@
 
 # Site navigation links
-<!--
-- title: Projects
-  url: /projects/
--->
 - title: Java study
   url: /post_java/
 - title: Thinking
